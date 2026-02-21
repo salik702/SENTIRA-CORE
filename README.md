@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://sentira-core-salik.streamlit.app/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=⚡+Decoding+Human+Emotion+in+Real-Time;🧠+Powered+by+LinearSVC+%2B+TF-IDF+NLP;💠+6+Emotions+·+89.2%25+Accuracy+·+Instant+Results" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=⚡+Decoding+Human+Emotion+in+Real-Time;🧠+Powered+by+LinearSVC+%2B+TF-IDF+NLP;💠+6+Emotions+·+89.2%25+Accuracy+·+Instant+Results" alt="Typing SVG" />
 </a>
 
 <br/>
