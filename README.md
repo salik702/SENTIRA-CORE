@@ -1,14 +1,15 @@
 ## 🌐 Live Demo
 
-[🚀 Launch the App](https://sentira-core.streamlit.app/) *(Placeholder Link)*
+[🚀 Launch the App](https://sentira-core-salik.streamlit.app/)
 
 ## 🖼️ Preview
 
 <div align="center">
-  <img width="872" alt="Sentira Core Preview" src="https://github.com/user-attachments/assets/placeholder-image-id" />
+  <img width="749" height="407" alt="image" src="https://github.com/user-attachments/assets/2ac41cdb-1053-442b-816c-a3feff7d8688" />
+
 </div>
 
-> *A stunning, glassmorphism-inspired dark UI that makes sentiment analysis a visual delight.*
+> *A stunning, glassmorphism-inspired dark UI that makes NLP-powered sentiment analysis a visual delight*
 
 ---
 
@@ -125,11 +126,25 @@ We welcome contributions! Whether it's enhancing the model, improving the UI, or
 This project is open-source and available for free.
 
 ---
-
 <div align="center">
-  <p>Made with ❤️ and 💠 by <b>Salik Ahmad</b></p>
-  <p>
-    <a href="https://salikahmad.vercel.app/">🌐 Portfolio</a>  |  
-    <a href="https://www.linkedin.com/in/salik-ahmad-6b0142273/">🔗 LinkedIn</a>
-  </p>
+
+<h3>Made with ❤️ by <b>Salik Ahmad</b></h3>
+
+<p>
+  <a href="https://salikahmad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-🌐-blue?style=for-the-badge&logo=about.me&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/salik-ahmad-programmer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-🔗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/salikahmad702" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-📊-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</p>
+
+<p style="font-size:14px; color:gray;">
+  <em>© 2026 <b>Salik Ahmad</b>. All rights reserved. ☕ AI/ML Engineer</em>
+</p>
+
 </div>
+
